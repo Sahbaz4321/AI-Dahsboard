@@ -1,5 +1,4 @@
-AI Safety Incident Dashboard
-A simple, web-based dashboard for tracking, filtering, and sorting AI safety incidents within an organization.
+# AI Safety Incident Dashboard - A simple, web-based dashboard for tracking, filtering, and sorting AI safety incidents within an organization.
 
  Project Setup
  Prerequisites:
@@ -7,12 +6,10 @@ Node.js (v18+)
 
 npm or yarn
 
-📥 Installation:
+# Installation:
 Clone your project and install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 # or
 yarn install
@@ -28,7 +25,7 @@ npm start
 yarn start
 The app will run at: http://localhost:3000
 
-Tech Stack
+# Tech Stack
 Framework: React.js
 
 Styling: Tailwind CSS
@@ -36,8 +33,7 @@ Styling: Tailwind CSS
 Icons: Lucide React
 
 Package Manager: npm / yarn
-
- Features
+# Features
  View a list of mock AI safety incidents
 
  Filter incidents by severity (High / Medium / Low)
@@ -57,3 +53,9 @@ React hooks (useState, useEffect) for state management and side effects.
 
 Sorting & filtering logic handled within a dedicated useEffect.
 
+
+
+![Screenshot 2025-04-27 153408](https://github.com/user-attachments/assets/7bf92d29-ea4c-4bb4-93fc-d513c22ee7af)
+![Screenshot 2025-04-27 153443](https://github.com/user-attachments/assets/3ec85f53-4c4d-4cb1-9a9d-5320c5320962)
+![Screenshot 2025-04-27 153526](https://github.com/user-attachments/assets/cabf3ee4-76d4-45a4-ab8f-fd25f7317e11)
+![Screenshot 2025-04-27 153611](https://github.com/user-attachments/assets/b281217b-387b-4c38-9f47-af9f6ad07be5)
